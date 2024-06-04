@@ -1,1 +1,1 @@
-git
+# Prompts que utilizei no projeto do Podcast
