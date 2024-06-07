@@ -24,7 +24,7 @@
 
 ## 📚Organização e Gestão
 
-Utilizei o Notion para organizar as tarefas e manter um cronograma atualizado dos episódios. Abaixo, você pode acessar minha página no Notion para mais detalhes:
+Utilizei o Notion para organizar as tarefas e prompts utilizados para a criação do podcast. Abaixo, você pode acessar minha página no Notion para mais detalhes:
 
 - [Notion - Desvendando as Redes de Computadores](https://www.notion.so/PODCAST-STUDIO-c17c720442204c73b9453e2ec26c5033)*
 
